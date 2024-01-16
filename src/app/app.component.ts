@@ -11,7 +11,7 @@ import { LikeWidgetComponent } from './shared/components/like-widget/like-widget
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  public title = 'Unit Tests Jasmine';
+  public title = 'testes-jasmine-karma-1';
   public likes = 0;
 
   public like(): void {
